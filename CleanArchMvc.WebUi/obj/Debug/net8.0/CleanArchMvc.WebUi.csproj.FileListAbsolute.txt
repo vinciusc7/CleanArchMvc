@@ -38,3 +38,4 @@ C:\Users\vinci\source\repos\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net8.0\ref
 C:\Users\vinci\source\repos\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net8.0\CleanArchMvc.WebUi.pdb
 C:\Users\vinci\source\repos\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net8.0\CleanArchMvc.WebUi.genruntimeconfig.cache
 C:\Users\vinci\source\repos\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net8.0\ref\CleanArchMvc.WebUi.dll
+C:\Users\vinci\source\repos\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net8.0\CleanArchMvc.WebUi.sourcelink.json
