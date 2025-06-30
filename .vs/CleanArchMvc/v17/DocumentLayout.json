@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinci\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\entititiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\entititiesconfiguration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinci\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|c:\\users\\vinci\\source\\repos\\cleanarchmvc\\cleanarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1D67E9-C81C-40B9-AAE2-EE24F2AD4A13}|CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj|solutionrelative:cleanarchmvc.infra.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntititiesConfiguration\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\EntititiesConfiguration\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntititiesConfiguration\\CategoryConfiguration.cs",
-              "RelativeToolTip": "CleanArchMvc.Infra.Data\\EntititiesConfiguration\\CategoryConfiguration.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T11:23:33.05Z",
+              "WhenOpened": "2025-06-30T19:10:21.95Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\vinci\\source\\repos\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Infra.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:56:48.002Z"
             }
           ]
         }

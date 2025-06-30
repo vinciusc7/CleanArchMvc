@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Interfaces
 {
-    interface IProductRepository
+    public interface IProductRepository
     {
         Task<IEnumerable<Product>> GetProductsAsync();
         Task<Product> GetProductsByIdAsync(int? id);
